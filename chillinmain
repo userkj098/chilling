@@ -1,0 +1,7 @@
+git clone --recursive https://github.com/emingenc/telegramGPT.git
+cd telegramGPT
+
+pip3 install -r requirements.txt
+  users = ["Mohd Zain"]
+  
+python3 telegram_bot.py
